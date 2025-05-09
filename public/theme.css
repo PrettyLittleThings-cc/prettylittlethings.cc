@@ -1,4 +1,6 @@
-/* * {
+/*
+
+* {
   box-sizing: border-box;
   -moz-box-sizing: border-box;
 }
@@ -37,7 +39,10 @@ h3 {
 }
 a {
   text-decoration: none;
-} */
+}
+
+*/
+
 nav.breadcrumbs {
   border-top: 1px solid #bbb;
   border-bottom: 1px solid #bbb;
